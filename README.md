@@ -5,9 +5,9 @@
 
 ## ⚫ An IT professional with 6+ years of experience from client-side support to data analytics and server-side automation. 
 
-## ⚫There is nothing like guiding users from their first "Hello world" app to a fully interactive and functional real-world application. 
+## ⚫There is nothing like guiding users from their first concept to a fully interactive and functional real-world application. 
 
-## ⚫ These days you can find me busy 
+## ⚫ These days you can find me busy: 
  
  ### ⬛ Developing automation solutions for server-side applications
  ### ⬛ Enjoy my beautiful family
