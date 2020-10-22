@@ -9,7 +9,24 @@
 
 ### ⚫ These days you can find me busy: 
  
-   ⬛ Learning Something New
-   ⬛ Enjoying my beautiful family
-   ⬛ Playing some video games or board games with them 
-   ⬛ And Playing some soccer on the weekends.
+   ⬛ Learning Something New <br>
+   ⬛ Enjoying my beautiful family<br>
+   ⬛ Playing some video games or board games with them <br>
+   ⬛ And Playing some soccer on the weekends.<br>
+
+
+---
+
+### Contact: 
+<a href="https://www.linkedin.com/in/bruno-dasilva/" title="This is a link to my Linkedin Profile">
+ ⚫
+  <img align="center" src="https://res.cloudinary.com/duprwuo4j/image/upload/v1603403579/Logo/iconfinder_LinkedIn_3380448_1_hnjs0a.webp" />
+ ⚫
+</a>
+<a href="https://www.bruno-dasilva.com/" title="This is a link to my portfolio page">
+  <img align="center" src="https://res.cloudinary.com/duprwuo4j/image/upload/v1603403581/Logo/iconfinder_Telegram_3380451_1_snx24h.png" />
+ ⚫
+</a>
+<a href="#">
+  <img align="center" src="https://res.cloudinary.com/duprwuo4j/image/upload/v1603404847/Logo/thing700_kjehjg.gif" />
+</a>
