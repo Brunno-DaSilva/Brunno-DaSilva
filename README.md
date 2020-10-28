@@ -9,6 +9,7 @@
 
 ### ⚫ These days you can find me busy: 
  
+   ⬛ Developing Web Solutions<br>
    ⬛ Learning Something New <br>
    ⬛ Enjoying my beautiful family<br>
    ⬛ Playing some video games or board games with them <br>
