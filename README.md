@@ -5,15 +5,15 @@
 
 ### ⚫ An IT professional with 6+ years of experience from client-side support to data analytics and server-side automation. 
 
-### ⚫There is nothing like guiding users from their first concept to a fully interactive and functional real-world application. 
+### ⚫ There is nothing like guiding users from their first concept to a fully interactive and functional real-world application. 
 
 ### ⚫ These days you can find me busy: 
  
-   ⬛ Developing web solutions<br>
-   ⬛ Learning something new <br>
-   ⬛ Enjoying my beautiful family<br>
-   ⬛ Playing some video games or board games with them <br>
-   ⬛ And playing some soccer on the weekends.<br>
+   ⬛  Developing web solutions<br>
+   ⬛  Learning something new <br>
+   ⬛  Enjoying my beautiful family<br>
+   ⬛  Playing some video games or board games with them <br>
+   ⬛  And playing some soccer on the weekends.<br>
 
 
 ---
