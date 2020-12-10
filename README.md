@@ -9,11 +9,11 @@
 
 ### ⚫ These days you can find me busy: 
  
-   ⬛ Developing Web Solutions<br>
-   ⬛ Learning Something New <br>
+   ⬛ Developing web solutions<br>
+   ⬛ Learning something new <br>
    ⬛ Enjoying my beautiful family<br>
    ⬛ Playing some video games or board games with them <br>
-   ⬛ And Playing some soccer on the weekends.<br>
+   ⬛ And playing some soccer on the weekends.<br>
 
 
 ---
