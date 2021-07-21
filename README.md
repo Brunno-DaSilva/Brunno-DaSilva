@@ -1,4 +1,8 @@
-<img width="100%" src="https://res.cloudinary.com/duprwuo4j/image/upload/v1603401072/Logo/brunodasilva_gftoag.gif">
+<img width="100%" src="https://res.cloudinary.com/duprwuo4j/image/upload/v1626893131/Logo/GITHUB_ipubnu.gif">
+
+
+<img width="100%" src="https://res.cloudinary.com/duprwuo4j/image/upload/v1626893131/Logo/Orange_and_White_Funny_Dating_Animated_Presentation_w6dofd.gif">
+
 
 
 ### ⚫ "Hello World". I am a Software Engineer and Instructor. Who is passionate about coding and teaching.
@@ -18,16 +22,3 @@
 
 ---
 
-### Contact: 
-<a href="https://www.linkedin.com/in/bruno-dasilva/" title="This is a link to my Linkedin Profile">
- ⚫
-  <img align="center" src="https://res.cloudinary.com/duprwuo4j/image/upload/v1603403579/Logo/iconfinder_LinkedIn_3380448_1_hnjs0a.webp" />
- ⚫
-</a>
-<a href="https://www.bruno-dasilva.com/" title="This is a link to my portfolio page">
-  <img align="center" src="https://res.cloudinary.com/duprwuo4j/image/upload/v1603403581/Logo/iconfinder_Telegram_3380451_1_snx24h.png" />
- ⚫
-</a>
-<a href="#">
-  <img align="center" src="https://res.cloudinary.com/duprwuo4j/image/upload/v1603404847/Logo/thing700_kjehjg.gif" />
-</a>
