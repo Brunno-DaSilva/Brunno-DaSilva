@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/duprwuo4j/image/upload/v1626892946/GITHUB_yuzted.gif">
+<img width="100%" src="https://res.cloudinary.com/duprwuo4j/image/upload/v1626892946/GITHUB_yuzted.gif">
 
 
 ### ⚫ "Hello World". I am a Software Engineer and Instructor. Who is passionate about coding and teaching.
