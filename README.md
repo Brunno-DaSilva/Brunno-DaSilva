@@ -17,7 +17,7 @@
    🟦  Learning something new <br>
    🟦  Enjoying my beautiful family<br>
    🟦  Playing some video games or board games with them <br>
-   🟦  And playing some soccer on the weekends.<br>
+   🟦  And playing soccer and training Brazilian Jiu-Jitsu <br>
 
 
 ---
