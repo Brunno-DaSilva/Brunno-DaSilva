@@ -13,11 +13,11 @@
 
 ### 🔵 These days you can find me busy: 
  
-   🟦  Developing web solutions<br>
-   🟦  Learning something new <br>
-   🟦  Enjoying my beautiful family<br>
-   🟦  Playing some video games or board games with them <br>
-   🟦  And playing soccer and training Brazilian Jiu-Jitsu <br>
+   👨‍💻  Developing web solutions<br>
+   🤓  Learning something new <br>
+  👨‍👩‍👧‍👦  Enjoying my beautiful family<br>
+   🎮  Playing video games or board games with them <br>
+   🥋  Playing soccer and practicing Brazilian Jiu-Jitsu <br>
 
 
 ---
